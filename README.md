@@ -90,8 +90,4 @@ pip install mcpi
 
 执行mc_Ai.py所有代码
 
-访问游戏，在聊天框输入对话发送，后按下alt键触发对话Ai机制，如弹出语言则代表成功
-
-![ta\Roaming\Typora\typora-user-images\image-20241107115118155.png)
-
-![image-20241107115448162](C:\Users\Draeko\AppData\Roaming\Typora\typora-user-images\image-20241107115448162.png)
+访问游戏，在聊天框输入对话发送，后按下alt键触发对话Ai机制，如弹出语言则代表成功 例图succeed.png
